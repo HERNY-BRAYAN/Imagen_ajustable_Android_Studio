@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">aplicacion_brayan_monsalve</string>
+    <string name="bienvenido">BIENVENUE</string>
+    <string name="entar">ENTER</string>
+    <string name="marciano" translatable="false">marciano</string>
+</resources>
